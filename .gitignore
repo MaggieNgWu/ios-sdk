@@ -1,0 +1,9 @@
+## build folder and contract folder
+build
+helloworld
+
+## environment
+.idea
+
+## local build file
+buildlocal.sh
